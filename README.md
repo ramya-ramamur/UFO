@@ -13,7 +13,7 @@ This poroject creates a webpage that accepts user inputs to display information 
 * Software/Libraries: HTML/CSS, JavaScript, Visual Studio Code 1.49.1, BootStrap 4.0.0
 
 # Results: 
-**Link to UFO Sightings deployed webpage is accessible at [UFO Finder](https://ramya-ramamur.github.io/UFO/)**
+**Link to UFO Sightings deployed webpage: [UFO Finder](https://ramya-ramamur.github.io/UFO/)**
 
 Search Criteria
 The user can filter the table by (Date, City, State, Country, Shape)typing in the suggested placeholder elements. The change is detected and the table is updated accordingly.
